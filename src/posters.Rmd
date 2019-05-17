@@ -1,0 +1,50 @@
+---
+title: "Posters using PageDown"
+author: "Steve Simon"
+date: "5/17/2019"
+output: powerpoint_presentation
+---
+
+### Hall of Fame for R ( 1 of 2)
+
++ John Chambers
+  + Becker, Chambers and Wilks, The New S Language: A Programming Environment for Statistical Analysis and Graphics (1988)
+  + Chambers and Hastie (Eds), Statistical Models in S (1992) 
++ Ross Ihaka and Robert Gentleman
+  + R: A language for data analysis and graphics.  Journal of Computational and Graphical Statistics, 5(3):299-314, 1996. Available in [PDF format](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf)
+
+### Hall of Fame for R (2 of 2)
+
++ William Venables and Brian Ripley
+  + Modern Applied Statistics with S
++ Frank Harrell
+  + Hmisc, rms packages
++ Hadley Wickham
+  + tidyverse packages
+
+### Hall of Fame for R, latest addition (1 of 2)
++ Yihui Xie
+  + **animation**: a gallery of animations in statistics and utilities to create animations, **blogdown**: create blogs and websites with R Markdown, **bookdown**: author books and technical documents with R Markdown, **DT**: a wrapper of the JavaScript library DataTables, **formatR**: Format R code automatically, **knitr**: Dynamic report generation with R, **printr**: Some printing methods for knitr, **Rd2roxygen**: Convert Rd to roxygen documentation
+  
+### Hall of Fame for R, latest addition (2 of 2)
++ Yihui Xie
+  + **rlp**: Write an R package using literate programming techniques, **servr**: a simple HTTP server to serve static files or dynamic documents, **testit**: a simple package for testing R packages, **tinytex**: a lightweight LaTeX distribution based on TeX Live, **tufte**: Tufte styles for R Markdown documents, **xaringan**: presentation ninja, **xfun**: miscellaneous functions
+
+### One degree of separation (1 of 2)
+
+![Revolutions blog entry](../images/r-contest-1.png)
+
+### One degree of separation (2 of 2)
+
+![Revolutions blog entry](../images/r-contest-2.png)
+
+### Strange fact about Yihui Xie
+
+![Image of Karl Broman](../images/yolo-equals-true.png)
+
+### Yihui Xie's major contributions to R
+
++ Using markdown language in creative ways
+  + Web pages
+  + PDF documents
+  
