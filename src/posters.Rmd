@@ -42,9 +42,45 @@ output: powerpoint_presentation
 
 ![Image of Karl Broman](../images/yolo-equals-true.png)
 
-### Yihui Xie's major contributions to R
+### knitr, Yihui Xie's major contributions to R
 
-+ Using markdown language in creative ways
-  + Web pages
-  + PDF documents
++ Successor to sweave
++ Integrates program code, output, and documentation
++ Uses plain text files
   
+### Pandoc is the foundation
+
+![Pandoc website](../images/pandoc.png)
+
+### Markdown
+
++ Simplified version of markup (html, LaTeX)
+  + Smaller feature set
+  + Readable input
+  + Easy to learn
++ Similar in spirit to yaml
+
+### What can you create?
+
++ Web pages
+  + Blog site
+  + Books
++ PDF documents
++ Presentations
+  + Powerpoint
+  + html presentations (ioslides, slidy)
+  + PDF presentations (Beamer)
+  
+### Pagedown
+
+![pagedown readme file](../images/pagedown.png)
+
+### Features not found in knitr
+
++ Paged html files
++ Cascading Style Sheets (CSS)
+  + Resume
+  + Poster
+  + Business card
+  + Business letter
+  + Journal of Statistical Software
