@@ -99,7 +99,7 @@ output: powerpoint_presentation
 + Build Powerpoint presentations
 + Custom chunk engines
 + Detect missing packages
-+ Visit [RStudio blog](https://blog.rstudio.com/categories/rstudio-ide)
++ Visit [RStudio blog](https://blog.rstudio.com/categories/rstudio-ide) for more information.
 
 ### poster-jacobs.css
   
